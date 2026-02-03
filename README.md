@@ -112,6 +112,10 @@ python interactive_autoglm.py
 
 > 💡 **提示**：执行任务时，建议在手机里打开 AutoGLM App的云手机页面，与 CLI 配合使用，边下指令边看执行效果。
 
+#### 运行截图
+
+![运行截图](doc/images/runingImage.png)
+
 #### 交互命令
 
 | 命令 | 说明 |
@@ -253,6 +257,10 @@ After sending a command, you can view the execution in two ways:
 2. **AutoGLM Cloud Phone Interface** - Watch real-time task execution on the cloud phone preview page of the AutoGLM App
 
 > 💡 **Tip**: When executing tasks, we recommend opening the AutoGLM app in your phone app alongside the CLI to see the results in real-time as you issue commands.
+
+#### Screenshot
+
+![Running Screenshot](doc/images/runingImage.png)
 
 #### Available Commands
 
